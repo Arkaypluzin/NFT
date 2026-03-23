@@ -1,8 +1,8 @@
 // Dans ton fichier config.js
-export const contractAddress = "0x899E0e66CE8ff91a53946fB1Cf5551cd31492A7B";
+export const contractAddress = "0x6646D78FAf733dEF61367c17BAA9238121a64f74";
 export const chainId = 11155111; 
 
-export const abi = [ [
+export const abi =  [
 	{
 		"inputs": [],
 		"stateMutability": "nonpayable",
@@ -600,5 +600,4 @@ export const abi = [ [
 		"stateMutability": "nonpayable",
 		"type": "function"
 	}
-]
 ];
