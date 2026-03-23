@@ -1,5 +1,5 @@
 // Dans ton fichier config.js
-export const contractAddress = "0x8d002CdD53590A1052203f9739F850049602e988";
+export const contractAddress = "0xBAF7A250f61a8bB55821974a05E75c8a555f6942";
 export const chainId = 11155111; 
 
 export const abi =  [
